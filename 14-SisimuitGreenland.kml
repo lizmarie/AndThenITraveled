@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>pq trail outside sisimiut </name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/467904"/>
+		<TimeStamp>
+			<when>2016-09-13T11:22:12Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Waypoints</name>
+			<description>A list of waypoints</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<name>trail head</name>
+				<visibility>1</visibility>
+				<open>0</open>
+				<TimeStamp>
+					<when>-0001-11-30T00:00:00Z</when>
+				</TimeStamp>
+				<description>No info available</description>
+				<LookAt>
+					<longitude>-53.69962970523966</longitude>
+					<latitude>66.95244836152843</latitude>
+					<range>500</range>
+					<tilt>45</tilt>
+					<heading>0</heading>
+				</LookAt>
+				<Point>
+					<coordinates>
+						-53.69962970523966,66.95244836152843,0
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-53.669524902230776,66.94563217169234,8.490130068010705 -53.66951284226737,66.94563986403465,10.504687831587596 -53.66923848891158,66.9460759821681,27.847886031865713 -53.668813891668485,66.94649776759583,33.31670548593604 -53.66821583219773,66.94688474609565,35.07239331508961 -53.667801311090095,66.9473124842397,39.003716988908835 -53.66770364131676,66.94739624186724,41.11118774006146 -53.66756103059651,66.9478520922958,46.759521054771014 -53.667238305594296,66.94828415922103,52.152460852906195 -53.66707310822502,66.9487055073893,52.90498570790741 -53.66676295277663,66.94914587474493,57.242042211167586 -53.666422330156216,66.94957603132663,58.224205471543904 -53.66616937862939,66.95002132988839,57.027306634712644 -53.66582469554576,66.95045272847356,55.10149003767955 -53.66565808242841,66.95090312834262,51.45951344403483 -53.66597841644652,66.95134851417613,42.74347884805165 -53.66606708830577,66.95141794986486,42.070035204691806 -53.666918547260224,66.95171773170564,36.584198720009184 -53.66796624475655,66.95191568232525,34.74357807613771 -53.6690337450259,66.95208153104939,35.25005926737278 -53.6701068884508,66.9522571089919,35.45804752047374 -53.67120792140288,66.95240641784427,38.261711355851844 -53.672354999596706,66.95247681434583,45.41159792254902 -53.67271656434368,66.95246487460143,49.14374606731092 -53.67372934019054,66.95225014827905,58.21350360644726 -53.674529647855294,66.9519221780765,63.75336641903502 -53.6753252397114,66.95157436865485,62.60263174457519 -53.67626825104225,66.95130538583915,60.87821061576406 -53.6772790958787,66.95108115135137,63.742762392518635 -53.678379847868996,66.95094225765449,61.39422638085173 -53.67865793142074,66.95090190283948,60.36223786071078 -53.679757430595636,66.95076182031617,58.51791140124044 -53.68082598982361,66.95059865183941,58.90549125300388 -53.68192937755091,66.95044951006312,61.04554211543929 -53.682995509833006,66.95028241854958,55.729329358084904 -53.68401883442541,66.95006096457982,53.29389641267481 -53.68498272783585,66.94980010190639,54.26718085711422 -53.68532712422609,66.94975087982229,52.857712481676614 -53.68639139923419,66.94957927621462,48.74875011534723 -53.687509887124065,66.94948244188402,43.770260154915334 -53.688545537545316,66.94952590648066,43.13734111388354 -53.689752812709294,66.94942362395652,43.64423123622563 -53.690914105062724,66.94935626102576,39.648346035553 -53.692068664276235,66.9493346476605,33.32925020438736 -53.69319569543673,66.94943089802571,25.866267914403572 -53.69377300560692,66.94982341807615,9.071594583470773 -53.69385871730739,66.95027396507909,9.459010294678567 -53.69386339893563,66.9504100980278,10.953616401807325 -53.693729958717086,66.95086158794011,16.79774712095059 -53.69349894175249,66.9513061156776,17.042199513375927 -53.69327864784453,66.95175242957917,13.761910607987556 -53.693675099222375,66.95217381256376,10.71795329949545 -53.69452007397306,66.95247766993849,10.59302484852581 -53.69561611570593,66.9526424097598,19.166548874745516 -53.69677448876448,66.95259778038998,27.870746336746073 -53.69794269913799,66.95254120089976,27.953362137971634 -53.699081031760386,66.95248182233908,30.042980633716752 -53.69962970523966,66.95244836152843,29.30683556453141 -53.69962970523966,66.95244836152843,29.30683556453141 -53.69948747161134,66.9528966681669,22.079698229904583 -53.69930313698003,66.95328887157069,19.01462912237405 -53.699093084923874,66.95373093723525,17.788493340153902 -53.69902884736397,66.95398504715116,30.942200555226925 -53.69866198091734,66.95441531728679,49.02538259596252 -53.698017735595045,66.95480295312343,60.761071393287935 -53.697927970220796,66.95488213377124,62.72231165053791 -53.69749675309537,66.95512624415962,72.21825062463462 -53.697445635624334,66.9555768138763,61.5844362272097 -53.69717269794625,66.95574269790819,59.78463675300742 -53.697674433522245,66.95602673072274,57.926574960503274 -53.69758442751045,66.9563345792295,75.16249114907028 -53.69745500449208,66.95679236331303,69.82298661914535 -53.69742497979538,66.95689314192391,73.58804664967214 -53.697245319572424,66.95734131099384,72.72918451451949 -53.69770728211265,66.95775932200515,80.92836786941109 -53.69774965926219,66.95788454351799,97.00991202482243 -53.69761812963475,66.958287576021,121.72653844465799 -53.69701472340747,66.95866926449166,134.64568437480742 -53.69702314267339,66.95876502742115,142.272760146582 -53.697174532999355,66.95887511196202,146.3375613244591 -53.698311354799216,66.9588143400283,150.2784079609709 -53.69946818089224,66.95883989883907,158.62013543727105 -53.699765161904395,66.9587858334207,161.71933501844225 -53.700796988745346,66.95889530002066,177.95711667942368 -53.70080161179352,66.9591323301302,194.72251904872175 -53.70167533161615,66.95917858471758,213.62029118755171 -53.70228494017835,66.95920932146973,239.4943731159993 -53.70232937842719,66.95923266553949,244.46735668951703 -53.70231013667675,66.95924709935755,245.43823589969907 -53.70229292275724,66.95921151276272,246.27454546165512 -53.70222947718643,66.95922102043002,249.97986697724585 -53.70225583963206,66.95923719135676,250.8315482472084 -53.70224725783957,66.95922065024607,254.23582000736093 -53.70222915203434,66.95923926669057,257.2136095720679 -53.702244101282034,66.95927127564572,259.0539194019167 -53.70218027213514,66.95928885099613,260.91321773978734 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-53.69962970523966</longitude>
+			<latitude>66.95244836152843</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>

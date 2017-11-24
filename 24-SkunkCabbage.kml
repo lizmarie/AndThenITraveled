@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>skunk cabbage boardwalk</name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/865702"/>
+		<TimeStamp>
+			<when>2017-09-03T22:46:54Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<name>skunk cabbage boardwalk</name>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-117.92058850246232,51.08626467224383,609.9080969378014 -117.9205272565616,51.0868073552599,579.2419165367461 -117.91993541940919,51.08707105639534,576.1452388530032 -117.9195496910547,51.087450408455766,573.954342354241 -117.91907651057421,51.08774953727374,574.5615248412154 -117.91839439910441,51.08788535535316,575.7234307499838 -117.91780025470794,51.08816448640874,576.6933999916744 -117.91765956246014,51.088295411472785,576.9121417266846 -117.9172811467632,51.088680166866745,577.6544433086732 -117.9170844275234,51.08909276593874,577.2007679829491 -117.91763120070021,51.089390309184516,576.4643039614467 -117.91820013322425,51.089109147617,576.3792204793851 -117.91863754965834,51.088752058865026,576.463778564328 -117.91812509778592,51.08854701673142,576.8212411233534 -117.91831534819515,51.08820224985167,576.7113126355495 -117.91831534819515,51.08820224985167,576.711 -117.91872063423027,51.08796605447013,577.0271162572512 -117.91941257102424,51.08785078399183,576.5342400851761 -117.91954564463803,51.0876817876305,576.5210459323525 -117.91955566985236,51.08767062831327,576.5200323092724 -117.91956082302036,51.08766049179401,576.518893395013 -117.92005747235926,51.08732613953725,576.5046763123785 -117.92057572723024,51.08699397248308,576.9136041153242 -117.9207173306509,51.086548437902884,577.0714100453663 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-117.9207173306509</longitude>
+			<latitude>51.086548437902884</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>

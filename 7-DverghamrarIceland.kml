@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Dverghamrar rock pillars </name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/451346"/>
+		<TimeStamp>
+			<when>2016-08-27T20:14:09Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<name>Dverghamrar rock pillars </name>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-17.860445978893853,63.84999216032647,119.56760403963251 -17.860469829306172,63.84999835664485,118.8713949419801 -17.861307816561446,63.84973165034797,116.9041829663515 -17.861367402588492,63.84928237760075,113.18244432518368 -17.861431461205765,63.84914436126696,103.37886926029094 -17.860767205192303,63.848803307995716,108.73149813118857 -17.86079552599018,63.84880455186858,104.77496606187789 -17.861202894121178,63.849103331047246,94.67147456540003 -17.860844027615,63.848876027295354,98.7615237758824 -17.859975737577898,63.84912070671328,102.3671824737578 -17.8594288364964,63.849314280594605,106.22675901840934 -17.858837199857412,63.849679401359936,104.65108362369449 -17.85956531176733,63.8499952154819,104.31748250605492 -17.86023071931219,63.85020731251599,108.1208618145766 -21.084540670702737,64.28070186916311,177.962663137141 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-21.084540670702737</longitude>
+			<latitude>64.28070186916311</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>

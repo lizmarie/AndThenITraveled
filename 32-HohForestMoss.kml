@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>hoh forest moss Trail</name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/865714"/>
+		<TimeStamp>
+			<when>2017-05-21T02:15:51Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<name>hoh forest moss Trail</name>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-123.93414903308408,47.86063603109991,176.8907749695737 -123.93376356027338,47.860838682971085,169.02303640473207 -123.93390135429996,47.861280737584636,167.1709832416553 -123.93409868298299,47.861369335617205,167.07936078228127 -123.93476699620365,47.86140442531062,164.3927337405919 -123.93424987671688,47.861325080664756,161.6982250830487 -123.93436097331646,47.86177286160922,160.52742591326697 -123.93515272162172,47.86154680038656,161.79369527329013 -123.93510779144881,47.86161873579976,161.79674886329914 -123.93441609408545,47.86165858315746,161.84811828778408 -123.93385479755567,47.86179979516283,161.92919374380045 -123.93385479755567,47.86179979516283,161.929 -123.93395552297326,47.86201599358592,181.94021759498713 -123.93401750812687,47.86216462906498,183.21679742112372 -123.93395970735031,47.8626161499328,183.58125098703533 -123.93341557090777,47.86288511102645,184.13407825773425 -123.933412502179,47.862893628378224,184.1421457683099 -123.9334222199217,47.862897940585874,184.15021405989145 -123.93356490072703,47.86333772169121,184.44649989718067 -123.93306592182148,47.86348307538486,185.69855351294333 -123.93297861593969,47.863836880520665,186.08263707311323 -123.93324019595369,47.864253343962645,186.8547743669856 -123.93287881020507,47.864595603360094,187.8237156481644 -123.93230960217129,47.86435640118655,184.43673372511367 -123.93198633136328,47.86421517643671,184.05202358599382 -123.93151335167124,47.86388248065113,183.6369061544359 -123.93140492083899,47.86360889348901,183.01456372821812 -123.93140492083899,47.86360889348901,183.015 -123.93203804396596,47.86332760100065,181.180599731774 -123.93187123108122,47.86320626977835,181.21850838145446 -123.9322769275482,47.862833634917116,182.42586344587627 -123.9322895169469,47.86281542627425,182.41896059575623 -123.9322901432948,47.86280165734165,182.41081520938343 -123.93283837639116,47.86274733046908,181.42401373980215 -123.93335417727695,47.86245913370004,182.02220142367503 -123.93363875612172,47.86204417398588,180.33578874048862 -123.93369392318989,47.86161491978521,177.2556050259364 -123.93370476541631,47.861701119117335,175.0852781667758 -123.93439922724414,47.861730756388454,174.46041741132615 -123.93463438191394,47.86130674799335,172.89969002274006 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-123.93463438191394</longitude>
+			<latitude>47.86130674799335</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>

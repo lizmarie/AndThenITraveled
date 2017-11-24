@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>fjaðrárgljúfur canyon</name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/451347"/>
+		<TimeStamp>
+			<when>2016-08-28T08:44:41Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<name>fjaðrárgljúfur canyon</name>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-18.17265044073897,63.77217540356552,145.33726105880817 -18.172671788042393,63.77264404881013,136.89865622830575 -18.17293534717466,63.77307952767458,141.68337118544184 -18.173585972716076,63.773458799585036,132.35205328464528 -18.174270408189564,63.77350617587383,139.9973358516361 -18.173337977569016,63.7737020377988,147.4742814187964 -18.173103375192152,63.77377963404443,150.50456707016852 -18.17310004178549,63.774229065847564,159.09133234983008 -18.172946462541926,63.77457247289749,169.47461011248387 -18.173169518321814,63.77501498442787,176.0376370466045 -18.174123639602612,63.775168713515555,177.01946971454473 -18.174384226198114,63.77517760457958,174.7693676871406 -18.173385753084634,63.775090259867234,176.0191820447197 -18.173125441106333,63.77552574615147,184.57966376915664 -18.17320467837391,63.77566851177917,185.17369868535067 -18.173480358487133,63.77610472176844,188.84052236837002 -18.17374607687789,63.77644181321661,186.7495595576545 -18.173777634639737,63.77689129199656,190.6185189558257 -18.174141214593135,63.777313717721036,191.05613386260836 -18.17417049982061,63.77776291053745,190.51827244081358 -18.174591872299814,63.77817333291748,194.32735549853967 -18.174699909999866,63.77825188414248,191.78366471281274 -18.17527477917748,63.77862629736018,187.33880708791006 -18.17615727647829,63.77887245610345,186.13076198407177 -18.17671874062438,63.77901992941448,180.9942727141565 -18.176770263151077,63.77900846615268,178.20141444428566 -18.176059942530646,63.778836848068494,177.9095142856161 -18.17531495719226,63.77852203997873,180.96140973825732 -18.17470016896421,63.778163202649665,184.60997465831724 -18.174282921506414,63.77781264359591,183.60439211222018 -18.174203335978206,63.77735374132222,186.09309197334056 -18.173754039187614,63.77693937972183,187.1708443968657 -18.173743277288462,63.77648400619036,186.3713669518245 -18.173470610551277,63.77604852194759,183.1678129789908 -18.173223007023328,63.7756110980419,182.43313090854429 -18.17293384502496,63.77517366187583,181.31317257121725 -18.172941089773325,63.775147710944566,181.0975522281781 -18.172857790436556,63.774690601567556,177.66754173834593 -18.173203733780316,63.77426385522393,173.18795065341786 -18.17298332643992,63.77393361243204,166.65359002519287 -18.17387051703478,63.77371477021186,155.06158842824894 -18.173358064262388,63.77332462332054,147.78012199252055 -18.17300188737573,63.77309130897473,144.34033315805488 -18.172704030535225,63.772657378442396,138.4533314511154 -18.17257580973212,63.77220227480479,134.81199367692426 -18.172272409651573,63.77176829466569,131.31167698049597 -18.171909040037093,63.77134699662785,126.98759791837108 -18.171614497544144,63.77106646784072,125.69794416821486 -21.084540670702737,64.28070186916311,177.92632777348007 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-21.084540670702737</longitude>
+			<latitude>64.28070186916311</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>

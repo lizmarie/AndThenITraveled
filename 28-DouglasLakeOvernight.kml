@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>douglas lake over night </name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/865707"/>
+		<TimeStamp>
+			<when>2017-06-17T20:06:02Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<name>douglas lake over night </name>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-121.09223325680776,49.6406776604633,1221.3227628269135 -121.09228798678966,49.64046461335089,1180.6788690776239 -121.09231618955783,49.64049421294757,1207.6402114039286 -121.09237696158148,49.64056693015382,1207.3090696801753 -121.09237696158148,49.64056693015382,1207.31 -121.09235436346606,49.64052048263342,1216.4433968816757 -121.0928894823011,49.64023223625652,1218.4613722406434 -121.09321305205775,49.640030005512386,1218.348568771056 -121.09340527988984,49.63959686717478,1218.5917507478293 -121.09341268003656,49.63958746715875,1218.6068238283224 -121.09341656719155,49.63958256566476,1218.6083251768769 -121.0936318304083,49.63914849289171,1219.1434135737086 -121.09423975709949,49.638917685648856,1219.0740819702073 -121.09483579104632,49.638685614685144,1219.1337630200708 -121.094839548682,49.638681981499424,1219.1350207976739 -121.09535333494667,49.63837574603775,1220.3521424432995 -121.09600542823655,49.6382100139854,1221.6799631365438 -121.09619413643502,49.637841672565486,1222.1980116076154 -121.09681801411855,49.63764137972659,1223.130379388423 -121.09684274119572,49.63765575668792,1223.217133739337 -121.0972819206301,49.6373626962527,1224.632867855713 -121.0972819206301,49.6373626962527,1224.63 -121.09736440616635,49.63715568370635,1224.8088468317787 -121.09727915851614,49.637115204875506,1226.8995262804185 -121.09744330936125,49.63714481824268,1228.8427411685468 -121.09749292883856,49.63712603613749,1230.7608275643097 -121.09753024776842,49.63709393337872,1233.2983557717437 -121.09748856760426,49.63684905523261,1239.8905206373815 -121.09748653729166,49.63684638361041,1239.9264859138038 -121.09749099577647,49.63684487652401,1239.9617690845462 -121.09817983321,49.63678556508859,1242.1434432184562 -121.09867740008089,49.63649794652968,1243.1417127409193 -121.09914127832756,49.6361489109156,1246.2103774077598 -121.09942136844137,49.63573611180106,1252.7807858901335 -121.09959308835391,49.635304642493864,1257.1959265620985 -121.09980099887647,49.63511587612818,1261.886167821269 -121.10006971096396,49.63469864608326,1271.2644867032493 -121.10038164801216,49.63428917122996,1271.912037251543 -121.1009054752481,49.63399067563113,1271.997662204163 -121.10152502808239,49.633783720997165,1275.4066268283384 -121.10208799561863,49.633520980264265,1277.5090929936287 -121.10255444004729,49.63340318122469,1278.4505937427118 -121.10324171398868,49.63327763451062,1280.1642026457996 -121.10348257512449,49.63321472966074,1280.5943200337574 -121.10386770096346,49.63283972126705,1283.0346915007294 -121.10435344419638,49.63250585824643,1285.8559824774247 -121.10474369171213,49.63213163565245,1289.2820422128696 -121.1053032999726,49.631855566148374,1291.6690603104862 -121.10537096310603,49.631833267649256,1291.7747777459783 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-121.10537096310603</longitude>
+			<latitude>49.631833267649256</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>

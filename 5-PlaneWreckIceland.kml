@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>plane wreck and beach </name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/451343"/>
+		<TimeStamp>
+			<when>2016-08-26T11:47:05Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Waypoints</name>
+			<description>A list of waypoints</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<name>plane wreck</name>
+				<visibility>1</visibility>
+				<open>0</open>
+				<TimeStamp>
+					<when>-0001-11-30T00:00:00Z</when>
+				</TimeStamp>
+				<description>No info available</description>
+				<LookAt>
+					<longitude>-19.365285206193274</longitude>
+					<latitude>63.45891243273824</latitude>
+					<range>500</range>
+					<tilt>45</tilt>
+					<heading>0</heading>
+				</LookAt>
+				<Point>
+					<coordinates>
+						-19.365285206193274,63.45891243273824,0
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-19.364560529762116,63.49130042845341,122.24105828748257 -19.364554996299184,63.49130511570034,123.95125877611324 -19.36389679081818,63.49095696303272,123.18324705273552 -19.36418408144472,63.49051339114903,117.24944166269499 -19.364475419165466,63.49008164862242,111.44475889980309 -19.364743103607005,63.48964332455513,95.866847417612 -19.365155576513335,63.48923430558292,86.56179131630492 -19.365385562287692,63.48890081219972,84.91757592376784 -19.365600401363675,63.488459497041056,86.77673557209084 -19.36581284425806,63.48801073340747,84.9920899147551 -19.3661762227263,63.48758758738357,84.84209318744098 -19.36631549464127,63.487336245748594,85.81757972418168 -19.366523510974382,63.486896770463545,87.24142407343457 -19.366708305714745,63.486444817225546,91.92960005386804 -19.366948267656824,63.48600300720293,92.87654642031262 -19.367184301101503,63.485559186041584,110.79690938709986 -19.36747499604401,63.48511637057533,116.36370774446188 -19.36776161498089,63.484677683904145,111.12484086825422 -19.36787468143756,63.484397521661805,109.5313584595672 -19.368069496074217,63.483953401725515,99.48235668844234 -19.368252608310605,63.483508860698265,86.46741887630348 -19.36842591282538,63.483066570585706,82.05530694624164 -19.368535105485464,63.482618287432665,81.48110143253855 -19.368708588170897,63.48216050950353,80.59697957057587 -19.368850700565122,63.48170511194146,75.43033247574282 -19.368964851699147,63.481255488664,72.72885319948473 -19.368997105277064,63.481102246619834,73.13679069205175 -19.369032439425148,63.480651316825586,79.24664105637164 -19.369132260682647,63.48019964022292,93.504319059973 -19.36919192490048,63.47974171296786,104.38277751973384 -19.369172405203194,63.47961549185763,107.07975419814657 -19.36915199487456,63.47915589572159,112.26249174513597 -19.36919529949386,63.47870227458383,112.71152133863538 -19.36911787668064,63.47824390532019,117.79622063723151 -19.369091948245185,63.478036122168,118.77591393533865 -19.369169616415075,63.477586227768576,114.68918367788481 -19.3692376272424,63.47713218477698,115.42365357815713 -19.36915154681876,63.47667540295773,114.46325562987491 -19.369054976839276,63.476457646759435,115.92757284816437 -19.36916301017253,63.4760012757497,115.48176363627162 -19.369108231443796,63.47554621191809,114.59472677324018 -19.369057818725857,63.4750916406476,115.43763325160846 -19.3690670340279,63.47500885130884,115.28713226614039 -19.36905715923331,63.47455755645541,110.76530368962553 -19.36903285240889,63.47410040931031,108.03278883984173 -19.36908157796093,63.473638462725965,106.71049432234041 -19.36914329493885,63.473181269361476,108.75476970755415 -19.369105896507065,63.47272999657322,112.08143946294429 -19.369131161411136,63.472274582270074,113.54956059048244 -19.369157988748128,63.471833666636954,114.26165797310773 -19.36932688969891,63.471383287238126,112.12912554693081 -19.369394511860396,63.470932548948696,110.132598711029 -19.36936706189133,63.47047869094265,109.78505850841675 -19.369515145516864,63.470032124001975,109.54231017381228 -19.369613980110095,63.46957445390322,110.93471038788148 -19.36963037626428,63.46911677888747,111.9391095992533 -19.369649586372365,63.468668195774946,108.5247350137143 -19.36968429158437,63.46852976579163,107.69150349751041 -19.369640832247516,63.468080077981206,105.0798018994037 -19.369639349717044,63.46762114140607,99.18982517353567 -19.369756311363673,63.46716946897629,98.04181295350317 -19.36974480320437,63.466813515107425,97.75455634482532 -19.369742696819056,63.46636477047029,101.04734040307807 -19.369720397618405,63.46590520278564,104.68041612572341 -19.369719227452485,63.465454747409154,105.45838498480428 -19.369735134884678,63.46520315238601,105.48624826967131 -19.369808695183945,63.464746088620664,105.65254622602107 -19.369755053262192,63.4642901670913,104.57135493035985 -19.3696762311938,63.46383103746417,109.45751734539343 -19.369565702610803,63.46352441932198,109.20704635339175 -19.36963853798275,63.463066802747846,110.62480407480938 -19.36955951947096,63.462609226023076,109.25646741114416 -19.36945282144246,63.46214990229418,109.4652804735636 -19.36924399996996,63.461703793766574,106.34377811644715 -19.368855830394327,63.461272432327036,103.6733323617665 -19.368398044188673,63.46086938834273,103.09122126200026 -19.36785933885791,63.460630044840265,102.46770847836225 -19.36703317315711,63.46037160176661,98.01267190332617 -19.36652164504591,63.45998430952709,93.590998190685 -19.365938620500884,63.4596113569656,87.86379827896046 -19.3653633675186,63.459230115864436,83.8879302079987 -19.365218875802128,63.45898835574737,85.02336784413887 -19.36529387058541,63.45891160163331,71.99262288021573 -19.365285206193274,63.45891243273824,70.11789437115617 -19.365285206193274,63.45891243273824,70.11789437115617 -19.36527575615039,63.4590203418241,82.28552682508868 -19.365569375664638,63.45858643864447,82.87834193091189 -19.365871557228598,63.45815556037228,78.99357558019365 -19.36598318779327,63.45769996440945,76.70938187088993 -19.366137161011967,63.45747774003431,75.96518686064694 -19.36623430322803,63.45702864047344,74.6785720288098 -19.366421322236263,63.456583089353565,77.60592990290712 -19.366642774303585,63.45613997710376,79.3446975804507 -19.36667814366966,63.45598077613936,79.2844181496653 -19.366279319832664,63.45556081282044,74.3495037305234 -19.366395238882223,63.45511083783168,76.2706888108323 -19.366500012581493,63.45465026820961,70.47827277149852 -19.366658083882783,63.454469583608315,65.80083106332307 -21.084540670702737,64.28070186916311,177.67401208265707 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-19.365285206193274</longitude>
+			<latitude>63.45891243273824</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>grace lake upper lake</name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/865722"/>
+		<TimeStamp>
+			<when>2017-01-28T20:28:04Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<name>grace lake upper lake</name>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-121.86653707190804,49.336436197165256,147.08504708973416 -121.86680438377428,49.33645417593725,132.0770135863115 -121.86615906797752,49.33628082785458,81.16913476355884 -121.86564045121946,49.33657688929862,82.18967175695887 -121.86526854949582,49.33695662102015,78.68822671157959 -121.86499766910056,49.33728013240658,95.45399007900508 -121.86436079938778,49.337096839180965,105.98502561750843 -121.8638164811857,49.336994037735074,113.70840069001783 -121.86338586300334,49.33735201921133,130.06919885898986 -121.86343983966711,49.337801003882475,141.78358535338984 -121.8633917375758,49.33803467293133,149.49776569501074 -121.86350418076174,49.33850329799882,161.31120585387103 -121.86349766932135,49.338522276033785,163.28481820327767 -121.86387686243081,49.3389097897663,179.5454493783798 -121.86433360104043,49.33892224566805,170.82957154456355 -121.86425631605282,49.33937684927106,180.5603383648482 -121.86364527043322,49.33960234745187,190.31640782564722 -121.86296936417705,49.339708890198985,189.88556781383002 -121.86292922901222,49.339716562973585,189.9705724207654 -121.86239969417943,49.340020573105164,202.92968675590268 -121.86239827173091,49.34021372166693,220.83860077806682 -121.8620706999829,49.34061004909717,238.70290137462754 -121.86220383961597,49.340933096271634,231.40131298035465 -121.8622220582741,49.34138356519321,236.6797359264393 -121.86237535325112,49.34181676372308,241.15692275982389 -121.86289804289162,49.34211549972204,247.07791258289916 -121.86342155647638,49.342427916723715,242.71288897743025 -121.86405026782344,49.3426276554543,250.292604885256 -121.8644356352199,49.34279918957356,254.07436705532214 -121.86490072992636,49.34313174219298,250.29472590636428 -121.86532745391264,49.34348720780845,254.95781737220324 -121.86564942023213,49.343895030142576,255.01286694438875 -121.8657939446959,49.344341102060014,257.0037572757341 -121.86619549596976,49.344674613272055,257.54517823718584 -121.8666651619524,49.345022671963065,264.129230321768 -121.86687446067029,49.34547214746247,266.66933130791796 -121.86685845925787,49.345570474728454,266.92895308024 -121.86660711396462,49.345992371756275,273.75042196937795 -121.86638959522874,49.34642388293499,271.9986380462009 -121.86683385927026,49.34676796872449,258.366740689018 -121.86726831208424,49.34714323247031,250.102373510499 -121.8676353202374,49.347263082120065,247.43673864900242 -121.86830243439054,49.347112368719515,252.54675538144437 -121.86836140162033,49.34694798469855,246.66111705960594 -121.86836140162033,49.34694798469855,246.661 -121.86883284080447,49.34670451668667,244.88760609748493 -121.86891624258598,49.346440786522194,241.96516592515584 -121.86912481727046,49.34657805379904,241.5896202312813 -121.86911300959233,49.34657476111782,241.25006907719614 -121.86909841046608,49.34657037971489,241.23603310975142 -121.86909841046608,49.34657037971489,241.236 -121.86926656729273,49.34663967948261,220.77181503436603 -121.86919421798676,49.34659260265794,224.30848260727322 -121.86924939714365,49.346490260052285,223.48510849458356 -121.8693765162441,49.34627353305695,221.84706095095356 -121.86961425075786,49.34621400616698,228.36555463081547 -121.86943621711148,49.34639361852534,222.52486937181715 -121.86943618923924,49.34639363444249,222.50810255574243 -121.86943533885233,49.346395751227014,222.49784650027593 -121.86942334563363,49.34663146485167,234.78851250317993 -121.86941218839411,49.34671621922594,240.08359475864214 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-121.86941218839411</longitude>
+			<latitude>49.34671621922594</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>

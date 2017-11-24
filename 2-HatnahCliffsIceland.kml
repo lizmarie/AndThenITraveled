@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Hatnah cliffs (not right name) </name>
+		<atom:author>
+			<atom:name></atom:name>
+		</atom:author>
+		<atom:link href="https://www.ramblr.com/web/mymap/trip/262677/445527"/>
+		<TimeStamp>
+			<when>2016-08-24T09:02:58Z</when>
+		</TimeStamp>
+		<description><![CDATA[<br/><p>Bientus, Inc. - www.ramblr.com - Share your outdoor stories on a map! </p><br/>]]></description>
+		<visibility>1</visibility>
+		<open>1</open>
+		<Style id="red">
+			<LineStyle>
+				<color>C81400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_red">
+			<LineStyle>
+				<color>961400FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="green">
+			<LineStyle>
+				<color>C878FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_green">
+			<LineStyle>
+				<color>9678FF00</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blue">
+			<LineStyle>
+				<color>C8FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_blue">
+			<LineStyle>
+				<color>96FF7800</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="cyan">
+			<LineStyle>
+				<color>C8F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_cyan">
+			<LineStyle>
+				<color>96F0FF14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>C81478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_orange">
+			<LineStyle>
+				<color>961478FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_green">
+			<LineStyle>
+				<color>C8008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_green">
+			<LineStyle>
+				<color>96008C14</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>C8FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_purple">
+			<LineStyle>
+				<color>96FF7878</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>C8A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_pink">
+			<LineStyle>
+				<color>96A078F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="brown">
+			<LineStyle>
+				<color>C8143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_brown">
+			<LineStyle>
+				<color>96143C96</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="dark_blue">
+			<LineStyle>
+				<color>C8F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="route_dark_blue">
+			<LineStyle>
+				<color>96F01414</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Folder>
+			<name>Tracks</name>
+			<description>A list of tracks</description>
+			<visibility>1</visibility>
+			<open>0</open>
+			<Placemark>
+				<visibility>0</visibility>
+				<open>0</open>
+				<styleUrl>#red</styleUrl>
+				<name>Hatnah cliffs (not right name) </name>
+				<description>Track no. 1</description>
+				<LineString>
+					<extrude>true</extrude>
+					<tessellate>true</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+						-22.692255569346326,63.884132561811704,109.80879824513346 -22.693279511833733,63.88419738113628,98.00878837420511 -22.69431965543011,63.8841585041145,98.7032665259361 -22.695143737343926,63.88388943391473,95.9352636431066 -22.696149423450276,63.88378924158378,92.90893315679247 -22.69715634436802,63.883706656331995,94.31423516075654 -22.697561816898528,63.88365981956758,96.30551316913254 -22.69856009275415,63.88356873358997,101.00792100410969 -22.699533148035552,63.883421509619296,100.72720786661752 -22.70041914408718,63.88319448307114,98.76412108302041 -22.701442831003533,63.88328927476557,100.04348365668878 -22.702179334856208,63.88325062533143,101.27914464716709 -22.703218446179346,63.883225283190654,103.13292246592951 -22.704132051418128,63.8830494067448,103.30904882063746 -22.705022388474823,63.882828423235885,99.91082394941449 -22.7055415188922,63.88296254226507,96.18585496178578 -22.70655752892174,63.88292585155565,95.83094348296449 -22.70759923606138,63.88293193062699,95.03512812271953 -22.708528746271938,63.88272736120409,97.51694383568484 -22.709122897412506,63.88235903189008,93.81263850143168 -22.71001248520765,63.882150673701645,93.16238832960762 -22.711053098124943,63.88209930371448,91.18566444760967 -22.712072033527598,63.882124897640615,90.48317113928528 -22.713098074960847,63.88210982989328,91.82187009387013 -22.714047398724762,63.88193104123699,90.87725282937626 -22.714924719821653,63.8816917267038,93.15198775581618 -22.715388635864635,63.88165442729659,94.46692472191765 -22.71642170505468,63.8816345071272,90.30691114407722 -22.717339646958635,63.88182985307805,84.58447773765403 -22.7180310134316,63.88198523899067,83.73588985235222 -22.719063779042248,63.88191886555949,88.33829261150538 -22.720070719309557,63.881834450508634,87.14994356582426 -22.72105826051329,63.88172143683467,87.86124774907503 -22.722009822360878,63.88155565291219,87.75974430512449 -22.722950857277795,63.881364706944886,91.63226311194133 -22.72338218119328,63.88130429335526,93.2140650401712 -22.72440208028658,63.88123469443843,90.58575069646665 -22.72544271785293,63.88126093921356,89.4781846658779 -22.72628860185199,63.88116156485319,87.22981221107796 -22.72728514035916,63.881041127562135,87.7841304526201 -22.728251901632472,63.88089102418037,93.15189175894801 -22.728859015849945,63.8807948228003,94.35253211941803 -22.729883181388896,63.88084207992035,90.62692234219129 -22.730921795043287,63.88086662660907,93.8626141131715 -22.73190347172465,63.88072445586941,96.8373271499737 -22.732922828180676,63.88074218503408,97.81521427091207 -22.73331799997257,63.88081524298764,97.57851254134279 -22.73435692828181,63.880802852174796,95.86715941231185 -22.7353390071245,63.880927442916324,94.57222567827908 -22.73621936856689,63.88068887633922,93.22303487644028 -22.73720039516659,63.880549382757394,92.66403276673103 -22.73816772627002,63.88038330297708,90.52508521664485 -22.73913187317072,63.88053170675155,84.92550703981698 -22.738905640423734,63.88097248718371,82.51987839647371 -22.739078822804505,63.881381939623715,74.91066665244333 -22.73870066713904,63.881801009165635,76.12502987362511 -22.73903616031675,63.88222859914878,73.43823348831909 -22.739135688547698,63.88221555454555,81.87157082385139 -22.739135627493134,63.8822165334875,81.88152071060455 					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<LookAt>
+			<longitude>-22.739135627493134</longitude>
+			<latitude>63.8822165334875</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>45</tilt>
+			<range>8158</range>
+			<altitudeMode>clampToGround</altitudeMode>
+		</LookAt>
+	</Document>
+</kml>
